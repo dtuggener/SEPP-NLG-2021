@@ -5,4 +5,8 @@ Task website: https://sites.google.com/view/sentence-segmentation/
 
 Dataset: https://drive.switch.ch/index.php/s/g3fMhMZU2uo32mf
 
-This repository contains the scripts needed to generate the task dataset and for dataset analysis and evaluation.
+This repository contains the scripts needed to: 
+- generate the task dataset
+- analyse the dataset
+- evaluate submissions
+- run the baselines
